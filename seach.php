@@ -21,6 +21,7 @@ $title = $metatitle[array_rand($metatitle)];
 <!DOCTYPE html>
 <html>
   <head>
+   // Add meta refresh here and redirect to main page, see readme.md for description
     <meta property="og:description" content="<?php echo $description; ?>" />
    <meta property="og:title" content="<?php echo $title; ?>"/>
     <meta property="og:image" content="<?php echo $img; ?>"/>
