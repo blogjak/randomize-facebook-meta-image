@@ -12,4 +12,4 @@ Create a page in php extention like search.php, add url redirecting to main page
 < meta http-equiv="refresh" content="0; url=index.php" / >
 <br>
 <br>
-Create a main page and name index.php. How to randomize to another page, plaese read: http://blogjak.com/how-to-redirect-easily-with-php-script
+Create a main page and name index.php. How to redirect to another page, plaese read: http://blogjak.com/how-to-redirect-easily-with-php-script
